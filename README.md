@@ -1,8 +1,7 @@
 # Cryptocrats
 
-Official website of Tech Club of AISV-6 
+## Official website of Tech Club of AISV-6 
 
----
 
 If you want to contribute to the official website of Cryptocrats, follow the steps:
 
