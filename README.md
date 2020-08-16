@@ -51,7 +51,7 @@ git checkout -b devansh
 
 ## Make and Commit changes
 
-Now make the changes you want to make for the website. Once you've made all the changes, open terminal or git bash and execute the command `git status`, you'll see there are changes.
+Now make the changes you want to make for the website. Once you've made all the changes, open terminal or git bash and execute the command `git status`, you'll see there are changes. If you're a beginner, just add your name and github username to `contributors.md` file.
 
 Add those changes to the branch you just created using the `git add` command:
 
