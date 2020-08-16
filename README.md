@@ -22,8 +22,6 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 
 ![clone](https://user-images.githubusercontent.com/58616444/90328893-d561f080-dfbd-11ea-89f8-caf7335cf113.png)
 
-![copy-to-clipboard](https://user-images.githubusercontent.com/58616444/90328888-c8dd9800-dfbd-11ea-8818-492dbda5e5fc.png)
-
 Open a terminal or git bash and run the following git command:
 
 ```bash
