@@ -14,9 +14,15 @@ If you want to contribute to the official website of Cryptocrats, follow the ste
 
 First of all, fork this repository using the top right button, marked as 'fork'. This will create a copy of this repository in your account.
 
+![fork](https://user-images.githubusercontent.com/58616444/90328886-bcf1d600-dfbd-11ea-8d35-7d02edf89f3c.png)
+
 ## Clone
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
+
+![clone](https://user-images.githubusercontent.com/58616444/90328893-d561f080-dfbd-11ea-89f8-caf7335cf113.png)
+
+![copy-to-clipboard](https://user-images.githubusercontent.com/58616444/90328888-c8dd9800-dfbd-11ea-8818-492dbda5e5fc.png)
 
 Open a terminal or git bash and run the following git command:
 
